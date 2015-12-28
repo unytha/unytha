@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style> .button {} </style>
 </head>
 <body>
 <!-- Google Tag Manager -->
@@ -13,19 +14,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KS256M');</script>
 <!-- End Google Tag Manager -->
 
-<a class="pure-button" href="#">Ljusterö</a>
+<a class="pure-button" href="">Ljusterö</a>
  .button {
             background: rgb(28, 184, 65); /* this is a green */
         }
+		<br>
+		<br>
 
-		<a class="pure-button" href="#">Åkersberga Station</a>
+		<a class="pure-button" href="">Åkersberga Station</a>
  .button {
             background: rgb(28, 184, 65); /* this is a green */
         }
+		<br>
+		<br>
 		
-		<a class="pure-button" href="#">Åkersberga Kyrka</a>
+		<a class="pure-button" href="">Åkersberga Kyrka</a>
  .button {background: rgb(28, 184, 65); /* this is a green */
         }
-
-</body>
+		<br>
+		<br>
+		<br>
+		
+	</body>
 </html>
