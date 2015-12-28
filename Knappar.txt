@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style> .button {background: rgb(28, 184, 65); /* this is a green */} </style>
+<style> .button {background: rgb(28, 184, 65);} </style>
 </head>
 <body>
 <!-- Google Tag Manager -->
