@@ -14,17 +14,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KS256M');</script>
 <!-- End Google Tag Manager -->
 
-<a class="button" href="">Ljusterö</a>
+<a class="button" id="Ljusterö">Ljusterö</a>
  
 		<br>
 		<br>
 
-		<a class="button" href="">Åkersberga Station</a>
+		<a class="button" id="ÅkersbergaStation">Åkersberga Station</a>
  
 		<br>
 		<br>
 		
-		<a class="button" href="">Åkersberga Kyrka</a>
+		<a class="button" id="ÅkersbergaKyrka">Åkersberga Kyrka</a>
  
 		<br>
 		<br>
