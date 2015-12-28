@@ -7,7 +7,7 @@
     border-radius: 4px;
     cursor: pointer;
     display: inline-block;
-    font-size: 14px;
+    font-size: 50px;
     font-weight: 400;
     line-height: 1.42857;
     padding: 6px 12px;
@@ -26,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KS256M');</script>
 <!-- End Google Tag Manager -->
 
-<a class="button" id="Ljusterö">Ljusterö</a>
+<a class="button" div style="text-align:center" id="Ljusterö">Ljusterö</a>
  
 		<br>
 		<br>
@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<br>
 		<br>
 		<br>
-		<a class="button" id="ÅkersbergaStation">Åkersberga Station</a>
+		<a class="button" div style="text-align:center" id="ÅkersbergaStation">Åkersberga Station</a>
  
 		<br>
 		<br>
@@ -43,7 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<br>
 		<br>
 		
-		<a class="button" id="ÅkersbergaKyrka">Åkersberga Kyrka</a>
+		<a class="button" div style="text-align:center" id="ÅkersbergaKyrka">Åkersberga Kyrka</a>
  
 		<br>
 		<br>
